@@ -1,0 +1,12 @@
+streamlit==1.32.0
+opencv-python-headless==4.9.0.80
+azure-cognitiveservices-vision-computervision==0.9.0
+pandas==2.1.4
+python-dotenv==1.0.1
+sqlalchemy==2.0.23  # For SQLite database
+azure-cognitiveservices-vision-computervision
+opencv-python-headless
+python-dotenv
+streamlit
+pytesseract
+python-multipart
